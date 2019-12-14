@@ -8,7 +8,7 @@ function callMe() {
 }
 
 
-function crazy() {
+function crazy()() {
   // fix the code in here:
 function thisIsCrazy(){
     console.log("hey!!!")
